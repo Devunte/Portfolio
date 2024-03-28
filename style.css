@@ -1,0 +1,117 @@
+.name {
+    display: inline-flexbox;
+    
+}
+
+.name img {
+   width: 200px;
+   border-style: double;
+   border-color: black;
+   filter: grayscale(55%);
+}
+.name h1 {
+    font-size: 300%;
+    font-variant: small-caps;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    
+}
+.name section {
+    text-align: center;
+    
+
+}
+
+
+
+.name section h2 {
+    font-family: cursive;
+    font-size: 200%;
+    display: inline;
+    
+}
+main {
+    flex-direction: column;
+    border-style: double;
+    border-width: 74px;
+    box-shadow: 1px 1px 1px 1px gray;
+    display: inline-flex;
+    border-radius: 10%;
+    text-align: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex: 1;
+    color: black;
+    text-decoration-color: black;
+
+}
+
+
+main img {
+justify-content: center;
+width: 310px;
+height: 200px;
+border-style: double;
+filter: grayscale(70%);
+}
+main h1 {
+    font-family: cursive;
+    padding-top: 0px;
+    font-variant: small-caps;
+}
+
+.name section p {
+    border-width: 104px;
+    border-style: double;
+    border-color: black;
+    font-display: gray;
+    border-radius: 10%;
+    
+    font-family:cursive;
+    font-size: 30px
+}
+
+html {
+    
+    background-color: rgba(112, 112, 112, 0.539);
+}
+
+footer section h1 {
+    text-align: right;
+    font-family: cursive;
+    font-size: 30px;
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+/* Resetting default styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: black; /* Background color for the navigation bar */
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline; /* Display the list items horizontally */
+  }
+  
+  nav ul li a {
+    display: inline-block; 
+    padding: 20px; 
+    color: #fff; 
+    text-decoration: none; 
+    font-family: cursive;
+  }
+  
+  nav ul li a:hover {
+    background-color: gray;
+  }
