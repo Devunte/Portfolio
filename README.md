@@ -1,4 +1,15 @@
-Portfolio: This is a portfolio that i plan on using in the future. i decided to use this color and formatiing as a test to see if it is appealiing to others so that i can catch an employers attention. 
+# <MY Portfolio>
 
-The steps i took to do this project was going back and looking through past coursework and taking bits and peices from projects in order to complete it.
 
+## Table of Contents (Optional)
+
+Page one: portfolio home page
+
+
+## Usage
+
+this page will be used to store my projects and other future work so that i can show employers my skills
+
+## Credits
+
+devunte dawson
